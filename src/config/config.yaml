@@ -1,0 +1,10 @@
+server:
+  host: example.com
+  port: 8080
+database:
+  name: mydatabase
+  user: myuser
+  password: mypassword
+smpp:
+  system_id: test
+  password: 123456
